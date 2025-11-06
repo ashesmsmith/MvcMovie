@@ -17,7 +17,6 @@ C:\Users\ashes\OneDrive\Documents\School\CSE 325 - .NET Software Development\Mvc
 C:\Users\ashes\OneDrive\Documents\School\CSE 325 - .NET Software Development\MvcMovie\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\ashes\OneDrive\Documents\School\CSE 325 - .NET Software Development\MvcMovie\obj\Debug\net9.0\scopedcss\bundle\MvcMovie.styles.css
 C:\Users\ashes\OneDrive\Documents\School\CSE 325 - .NET Software Development\MvcMovie\obj\Debug\net9.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
-C:\Users\ashes\OneDrive\Documents\School\CSE 325 - .NET Software Development\MvcMovie\obj\Debug\net9.0\compressed\euikqtqh4l-b9sayid5wm.gz
 C:\Users\ashes\OneDrive\Documents\School\CSE 325 - .NET Software Development\MvcMovie\obj\Debug\net9.0\compressed\s4h06sbw6r-61n19gt1b8.gz
 C:\Users\ashes\OneDrive\Documents\School\CSE 325 - .NET Software Development\MvcMovie\obj\Debug\net9.0\compressed\khii5gbrwk-xtxxf3hu2r.gz
 C:\Users\ashes\OneDrive\Documents\School\CSE 325 - .NET Software Development\MvcMovie\obj\Debug\net9.0\compressed\l0e8hya28e-bqjiyaj88i.gz
@@ -364,3 +363,4 @@ C:\Users\ashes\OneDrive\Documents\School\CSE 325 - .NET Software Development\Mvc
 C:\Users\ashes\OneDrive\Documents\School\CSE 325 - .NET Software Development\MvcMovie\obj\Debug\net9.0\MvcMovie.csproj.AssemblyReference.cache
 C:\Users\ashes\OneDrive\Documents\School\CSE 325 - .NET Software Development\MvcMovie\obj\Debug\net9.0\MvcMovie.csproj.Up2Date
 C:\Users\ashes\OneDrive\Documents\School\CSE 325 - .NET Software Development\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
+C:\Users\ashes\OneDrive\Documents\School\CSE 325 - .NET Software Development\MvcMovie\obj\Debug\net9.0\compressed\euikqtqh4l-g553p4wmkk.gz
